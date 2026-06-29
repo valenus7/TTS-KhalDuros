@@ -1,0 +1,16 @@
+# Blender v2.79 (sub 0) OBJ File: 'TTS_wall_simple_collider.blend'
+# www.blender.org
+mtllib TTS_wall_simple_collider.mtl
+o TTS_Wall_Cube
+v 1.399982 0.000000 -0.466661
+v -1.399982 0.000000 -0.466661
+v 1.399982 0.000000 0.466661
+v -1.399982 0.000000 0.466661
+vt 0.670157 0.155821
+vt 0.575537 0.155821
+vt 0.575537 0.193669
+vt 0.670157 0.193669
+vn 0.0000 1.0000 0.0000
+usemtl None
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1
